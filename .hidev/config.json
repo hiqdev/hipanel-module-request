@@ -1,21 +1,21 @@
 {
     "package": {
-        "name":     "hipanel-module-request",
-        "label":    "RequestModule",
-        "title":    "Request Plugin for HiPanel",
-        "type":     "yii2-extension",
-        "features": "yii2, extension",
-        "license":  "BSD-3-Clause",
-        "forum":    "https://forum.hiqdev.com/hipanel",
-        "language": "PHP",
-        "keywords": "request, hipanel, plugin",
-        "year":     2014
+        "name":         "hipanel-module-request",
+        "label":        "RequestModule",
+        "title":        "Request Plugin for HiPanel",
+        "type":         "yii2-extension",
+        "features":     "yii2, extension",
+        "license":      "BSD-3-Clause",
+        "forum":        "https://forum.hiqdev.com/hipanel",
+        "language":     "PHP",
+        "keywords":     "request, hipanel, plugin",
+        "year":         2014
     },
     "vendor": {
-        "name":     "hiqdev",
-        "title":    "HiQDev",
-        "homepage": "https://hiqdev.com/",
-        "email":    "support@hiqdev.com",
+        "name":         "hiqdev",
+        "title":        "HiQDev",
+        "homepage":     "https://hiqdev.com/",
+        "email":        "support@hiqdev.com",
         "authors": {
             "Andrii Vasyliev": {
                 "role":     "Project lead",
