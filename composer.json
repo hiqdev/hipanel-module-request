@@ -7,7 +7,7 @@
         "hipanel",
         "plugin"
     ],
-    "homepage": "https://hiqdev.com/hipanel-module-request",
+    "homepage": "https://github.com/hiqdev/hipanel-module-request",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
@@ -47,7 +47,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hipanel\\modules\\request\\": ""
+            "hipanel\\modules\\request\\": "src"
         }
     }
 }

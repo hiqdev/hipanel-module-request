@@ -1,20 +1,11 @@
-parentConfig:
-    github:         hiqdev/hidev-config
-
 package:
     name:           hipanel-module-request
     namespace:      hipanel\modules\request
-    label:          RequestModule
+    label:          HiPanel RequestModule
     title:          Request Plugin for HiPanel
     type:           yii2-extension
-    features:       yii2, extension
-    license:        BSD-3-Clause
-    forum:          https://forum.hiqdev.com/hipanel
-    language:       PHP
     keywords:       request, hipanel, plugin
     year:           2014
 
-composer.json:
-    require:
-        yiisoft/yii2:       '~2.0'
-
+require:
+    hiqdev/hidev-config-php:    "*@dev"
