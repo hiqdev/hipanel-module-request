@@ -3,6 +3,7 @@ hiqdev/hipanel-module-request changelog
 
 ## Under development
 
+- Added menu
 - Changed: hideved
 - Inited
 
